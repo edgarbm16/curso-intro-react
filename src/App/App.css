@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.estado {
+  color: white;
+  text-align: center;
+}
